@@ -7,7 +7,7 @@ The project is isolated and reproducible using the `{renv}` package.
 ├── Assignment_data.xlsx # Raw data file
 ├── script.R # Main analysis script
 ├── init-snapshot-exercises.Rproj # RStudio project file
-├── renv.lock # Lockfile for package versions
+├── renv.lock # Lockfile for package version
 ├── renv/ # renv environment folder
 └── README.md # This file
 
@@ -24,4 +24,4 @@ Used Packages
 ## How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/NAHLAH2023/Assignent_na_sa.git
+git clone [https://github.com/Nahlah2023/Assignment_na_sa.git]
