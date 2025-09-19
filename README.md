@@ -24,4 +24,5 @@ Used Packages
 ## How to Run the Project
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Nahlah2023/Assignment_na_sa.git]
+git clone git@github.com:NAHLAH2023/Assignment_na_sa.git
+
