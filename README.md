@@ -25,6 +25,3 @@ Used Packages
 1. Clone the repository:
 ```bash
 git clone https://github.com/NAHLAH2023/Assignent_na_sa.git
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
