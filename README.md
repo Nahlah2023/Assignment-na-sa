@@ -1,2 +1,30 @@
 # Assignment-na-sa
-training
+This R project analyzes student assignment data using various packages like `readxl`, `dplyr`, and `ggplot2`.  
+The project is isolated and reproducible using the `{renv}` package.
+
+## Project Structure
+
+├── Assignment_data.xlsx # Raw data file
+├── script.R # Main analysis script
+├── init-snapshot-exercises.Rproj # RStudio project file
+├── renv.lock # Lockfile for package versions
+├── renv/ # renv environment folder
+└── README.md # This file
+
+
+Used Packages
+
+- `readxl` – Read Excel files
+- `dplyr` – Data manipulation
+- `ggplot2` – Data visualization
+- `renv` – Project environment management
+
+---
+
+## How to Run the Project
+1. Clone the repository:
+```bash
+git clone https://github.com/NAHLAH2023/Assignent_na_sa.git
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
